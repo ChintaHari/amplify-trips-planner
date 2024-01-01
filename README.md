@@ -1,6 +1,3 @@
-# Generate the README content in Markdown format and save it to a file
-
-readme_content = """
 # Amplify Trip Experience - Flutter Mobile App
 
 ## Overview
@@ -165,6 +162,18 @@ Display and edit user profiles using an Amplify function.
 
 To begin, clone the repository and navigate to the project directory:
 
-```bash
-git clone [repository-url]
-cd [project-name]
+```
+git clone https://github.com/ChintaHari/amplify-trips-planner.git
+```
+```
+cd amplify-trips-planner
+```
+```
+flutter pub get
+```
+```
+amplify init
+```
+```
+flutter run
+```
