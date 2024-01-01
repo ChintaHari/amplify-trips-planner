@@ -1,5 +1,9 @@
 # Amplify Trip Experience - Flutter Mobile App
 
+### Try it now!
+
+Download the APK file for the app from the [v1.0.0 release](https://github.com/ChintaHari/amplify-trips-planner/releases/tag/v1.0.0).
+
 ## Overview
 
 This how-to guide, split into two parts, focuses on creating a cross-platform Flutter mobile app using AWS Amplify. The app, a trip planner, allows users to create trips with details such as name, destination, and dates, along with the ability to upload a banner image.
